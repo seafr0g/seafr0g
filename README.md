@@ -1,6 +1,3 @@
-![Snake animation](https://raw.githubusercontent.com/marinhocesar/marinhocesar/blob/main/dist/github-contribution-grid-snake.svg)
-
-
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
